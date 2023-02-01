@@ -1,0 +1,47 @@
+body{
+
+
+}
+h1  {
+  font-size: 20rem;
+  color: #35afd8;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #f0ec10;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #35afd8;
+}
+.register{
+    background-image: url("https://source.unsplash.com/240x150/?registration");
+}
+.display{
+    background-image: url("https://source.unsplash.com/240x150/?display");
+}
+.dice{
+    background-image: url("https://source.unsplash.com/240x150/?dice");
+}
+.coupon{
+    background-image: url("https://source.unsplash.com/240x150/?coupon");
+}
+button a{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #e29c18;
+    text-decoration: none;
+}
+.block{
+    outline: none;
+    border: 10px solid #d33c8f;
+    font-size: 3rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #a6f527;
+    text-shadow: 3px 0 #2ca7d0;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(97, 12, 162);
+  }

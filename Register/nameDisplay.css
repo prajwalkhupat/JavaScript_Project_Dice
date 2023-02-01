@@ -1,0 +1,19 @@
+
+body{
+    background-color: lightgrey;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 350%;
+    color: rgb(165, 155, 42);
+    margin-left: 5%;
+}
+  div{
+    font-size: 200%;
+    font-weight: bold;
+    position: absolute;
+    top:40%;
+    left: 40%;
+
+  }

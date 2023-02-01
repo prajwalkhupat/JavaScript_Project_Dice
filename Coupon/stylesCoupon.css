@@ -1,0 +1,35 @@
+body {
+  background-color: yellow;
+}
+
+#h1_container {
+  text-align: center;
+  margin-top: 3%;
+  margin-left: 15%;
+  height: 150px;
+  width: 60%;
+  vertical-align: middle;
+  padding: 5%;
+  font-size: 3rem;
+  color:rgb(166, 90, 181);
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #17e143;
+}
+
+#string_inner_container {
+ 
+  text-align: center;
+  vertical-align: middle;
+  padding: 5%;
+  margin-top: 3%;
+  margin-left: 15%;
+  height: 150px;
+  width: 60%;
+  font-family: Candara;
+  font-size: 52px;
+  font-weight: bold;
+  color:  #3462ab;
+}
+#string_inner_container:hover {
+  background-image: url("./congratulations.jpg.webp");
+}
